@@ -1,7 +1,6 @@
 Grocery List in C
 Overview
 This is a simple Grocery List program written in C. It allows users to add, view, and remove items from a grocery list. Perfect for beginners learning C programming and data handling.
-
 Features
 Add items to the grocery list.
 View all items in the list.
